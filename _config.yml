@@ -1,11 +1,11 @@
 # Site settings
 
-title: EAB-AM-Project
+title: 3DV@WHU
 header-img: img/316L_AM_IPF.png
 headercolor: "#FFFFFF"
 logo: img/logos/Project-Pages-New-Logo-Inverted.png
-email: ahmetcecen@gmail.com
-description: "Microstructural Analysis of Additive Manufacturing Datasets"
+email: panyue@whu.edu.cn
+description: "3D Vision Research Interest Group at Wuhan University"
 baseurl: ""
 url: "http://3dvwhu.github.io"
 github_username:  3dvwhu
