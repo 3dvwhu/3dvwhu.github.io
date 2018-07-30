@@ -3,13 +3,13 @@
 title: EAB-AM-Project
 header-img: img/316L_AM_IPF.png
 headercolor: "#FFFFFF"
-logo: /EAB-AM-Project/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: img/logos/Project-Pages-New-Logo-Inverted.png
 email: ahmetcecen@gmail.com
 description: "Microstructural Analysis of Additive Manufacturing Datasets"
 baseurl: ""
 url: "http://3dvwhu.github.io"
-github_username:  mined-gatech
-project_repository: EAB-AM-Project
+github_username:  3dvwhu
+project_repository: 3dvwhu.github.io
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
