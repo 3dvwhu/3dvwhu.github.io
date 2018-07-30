@@ -868,8 +868,12 @@ Projector = (function(_super) {
         size: 15.0,
         sizeAttenuation: false,
         vertexColors: true
+//		map: THREE.ImageUtils.loadTexture("{{ '/img/particle.png' | prepend: site.baseurl }}"),
+//		blending: THREE.NormalBlending,
+//		transparent: true
       });
       this.particles[p] = new THREE.ParticleSystem(this.points[p], material);
+	  this.particles[p].sortParticles = true;
       this.box.add(this.particles[p]);
     }
     return this.notify(Projector.EVENT_DATA_LOADED);

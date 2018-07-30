@@ -11,19 +11,17 @@
 		{% include altmetric.html %}
 
 		{% endif %}
-		
-		{% include ogmeta.html %}
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="{{"/css/reveal.min.css" | prepend: site.baseurl | prepend: site.url}}">
-		<link rel="stylesheet" href="{{"/css/theme/default.css" | prepend: site.baseurl | prepend: site.url| replace: 'default',page.theme}}" id="theme"> <!-- This is where THEME --> 
+		<link rel="stylesheet" href="{{"/css/reveal.min.css" | prepend: site.baseurl}}">
+		<link rel="stylesheet" href="{{"/css/theme/default.css" | prepend: site.baseurl | replace: 'default',page.theme}}" id="theme"> <!-- This is where THEME --> 
 
 		<!-- For syntax highlighting -->
-		<link rel="stylesheet" href="{{"/lib/css/zenburn.css" | prepend: site.baseurl | prepend: site.url}}">
+		<link rel="stylesheet" href="{{"/lib/css/zenburn.css" | prepend: site.baseurl}}">
 
 		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
 		<script>
@@ -41,7 +39,7 @@
 		<![endif]-->
 		
 		<!-- Pygments Github CSS -->
-		<link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl | prepend: site.url }}">
+		<link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 			
 		{% include analytics.html %}
 		
@@ -55,7 +53,7 @@
 		</div>
 		
 		<script src="{{"/lib/js/head.min.js " | prepend: site.baseurl}}"> </script>
-		<script src="{{"/js/reveal.min.js " | prepend: site.baseurl}}"></script>
+		<script src="{{"/js/reveal.js " | prepend: site.baseurl}}"></script>
 	
 		<script>
 

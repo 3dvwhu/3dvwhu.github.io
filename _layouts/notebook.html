@@ -170,15 +170,11 @@ layout: default
 {{ cell.source }}
 {% endhighlight %}
 
-{% for output in cell.outputs  %}
+{% for output in cell.outputs[0].data  %}
 
-{% for outputitem in output.data %}
-
-{% if outputitem[0] contains "image/" %}
-<img src="data:{{outputitem[0]}};base64, {{ outputitem[1] }}">
+{% if output[0] contains "image/"%}
+<img src="data:{{output[0]}};base64, {{ output[1] }}">
 {% endif %}
-
-{% endfor %}
 
 {% endfor %}
 
@@ -188,8 +184,8 @@ layout: default
 {% endcapture %}
 
 {% if page.visualworkflow == true %}
-<script src="{{ site.baseurl }}/js/mermaid.min.js"></script>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/mermaid.forest.css">
+<script src="/EAB-AM-Project/js/mermaid.min.js"></script>
+<link rel="stylesheet" href="/EAB-AM-Project/css/mermaid.forest.css">
 <script>mermaid.initialize({startOnLoad:true});</script>
 
 <!-- Get Content for This Post and Split at Pound Signs to Find Headers -->
