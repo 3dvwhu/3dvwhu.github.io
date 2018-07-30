@@ -7,7 +7,7 @@ logo: /EAB-AM-Project/img/logos/Project-Pages-New-Logo-Inverted.png
 email: ahmetcecen@gmail.com
 description: "Microstructural Analysis of Additive Manufacturing Datasets"
 baseurl: "/EAB-AM-Project"
-url: "http://mined-gatech.github.io"
+url: "http://3dvwhu.github.io"
 github_username:  mined-gatech
 project_repository: EAB-AM-Project
 disqus_shortname: project-pages
@@ -90,13 +90,13 @@ prose:
             - name: "Blood"
               value: "blood"
             - name: "Moon"
-              value: "moon"          
+              value: "moon"
             - name: "Night"
               value: "night"
             - name: "Sky"
               value: "sky"
             - name: "Solarized"
-              value: "solarized"             
+              value: "solarized"
       - name: "trans"
         field:
           element: "select"
@@ -108,13 +108,13 @@ prose:
             - name: "Page"
               value: "page"
             - name: "Concave"
-              value: "concave"          
+              value: "concave"
             - name: "Linear"
               value: "linear"
             - name: "Fade"
               value: "fade"
             - name: "None"
-              value: "none"             
+              value: "none"
       - name: "visualworkflow"
         field:
           element: "checkbox"
