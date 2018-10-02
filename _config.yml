@@ -1,9 +1,9 @@
 # Site settings
 
 title: 3DV@WHU
-header-img: img/3dvwhubackground2.PNG
+header-img: img/background.jpg
 headercolor: "#FFFFFF"
-logo: img/logos/alllogo.PNG
+logo: 
 email: panyue@whu.edu.cn
 description: "3D Vision Research Interest Group at Wuhan University"
 baseurl: ""
