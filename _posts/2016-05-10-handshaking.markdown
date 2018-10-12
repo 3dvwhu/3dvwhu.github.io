@@ -12,15 +12,15 @@ date:  2018-10-12
 # 研究方向
 
 ## 点云数据处理
-![alt text]({{ site.baseurl }}/img/img001.png)
+![alt text]({{ site.baseurl }}/img/img001.PNG)
 
-![alt text]({{ site.baseurl }}/img/img002.png)
+![alt text]({{ site.baseurl }}/img/img002.PNG)
 
-![alt text]({{ site.baseurl }}/img/img003.png)
+![alt text]({{ site.baseurl }}/img/img003.PNG)
 
-![alt text]({{ site.baseurl }}/img/img004.png)
+![alt text]({{ site.baseurl }}/img/img004.PNG)
 
-![alt text]({{ site.baseurl }}/img/img005.png)
+![alt text]({{ site.baseurl }}/img/img005.PNG)
 ##  
 
 
