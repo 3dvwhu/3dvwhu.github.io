@@ -1,25 +1,25 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
+- name: Zhen Dong 董震
+  role: 博士后  
   img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
+  github: 
   gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+  bio: 武汉大学测绘遥感信息工程国家重点实验室博士后，美国卡内基梅隆大学机器人研究所联合培养博士研究生，2018年博士后创新人才支持计划获得者。博士期间共发表SCI论文15篇（其中以第一或通讯作者发表一区Top SCI论文8篇）、EI论文6篇，谷歌学术引用400余次。已授权国家发明专利7项，软件著作权3项。先后获得湖北省科技进步一等奖、武汉大学研究生学术创新奖一等奖、博士研究生国家奖学金、王之卓创新人才奖一等奖、陈永龄院士优秀学生科技创新奖学金，测绘遥感信息工程国家重点实验室研究生科技创新奖，协同创新中心奖学金等。担任ISPRS、IEEE ITS、Information Sciences、JSTARS、Sensors等SCI期刊审稿人，2017年国际学术会议Laser Scanning学术委员会委员。研究兴趣为点云数据处理、计算机视觉与三维模型重建。
+  url:
   visible: true
    
-- name: Evdokia Popova
-  role: Modelling / Simulation
+- name: Yue Pan 潘越
+  role: 本科大四
   img: https://avatars0.githubusercontent.com/u/11926298?v=3&s=460
-  github: epopova
-  bio: "Eva is as a Postdoc Fellow with Dr. Surya Kalidindi in Woodruff School of Mechanical Engineering at Georgia Tech. She received her PhD from University of Waterloo, Ontario, Canada."
-  url: http://mined.gatech.edu/members/Eva/
+  github: YuePanEdward
+  bio: 武汉大学测绘学院本科生，曾于香港理工大学，阿尔伯塔大学交换，本科期间发表学术论文2篇，曾获武汉大学于刚-宋晓奖学金，中海达奖学金等。研究兴趣:点云配准，SLAM，三维计算机视觉。
+  url:yuepanedward.github.io
   visible: true
   
-- name: Surya R. Kalidindi
-  role: Materials Informatics
+- name: Yuzhou Zhou 周雨舟
+  role: 本科大四
   img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
-  visible: false
+  bio: 武汉大学测绘学院本科生，曾获
+  url: 
+  visible: true
