@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      研究小组成员张璐琪同学获第十届全国高等学校大学生测绘科技论文竞赛特等奖
+title:      研究小组张璐琪同学荣获全国大学生测绘科技论文竞赛特等奖
 author:     Yue Pan
 tags: 		  post
 subtitle:   基于三维目标模型匹配的车辆精准检测 
