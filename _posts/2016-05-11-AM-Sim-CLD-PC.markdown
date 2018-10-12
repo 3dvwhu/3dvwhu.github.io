@@ -1,5 +1,5 @@
 ---
-layout:     	projector
+layout:     	post
 title:     		Example: 3D PCA Projection of point cloud 
 author:     	Ahmet Cecen
 tags:         projector visualization 
