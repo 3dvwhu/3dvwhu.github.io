@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      研究小组论文被3DV2018接收
-author:     
+author:     潘越
 tags: 		post
-subtitle:  	
+subtitle:  	 迭代全局相似点配准算法
 date:       2018-09-05
 ---
 <!-- Start Writing Below in Markdown -->
