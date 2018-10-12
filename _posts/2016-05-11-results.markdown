@@ -1,70 +1,14 @@
 ---
-layout:     	slide
-title:     		Comparing Structural Features
-author:     	Ahmet Cecen
-tags:           presentation
-subtitle:    	A short presentation displaying quick results.
-
-theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
-trans:		default # default/cube/page/concave/zoom/linear/fade/none
-
-horizontal:	</section></section><section markdown="1" data-background="/EAB-AM-Project/img/slidebackground.png"><section markdown="1">
-vertical:		</section><section markdown="1">
+layout:     post
+title:      研究小组成员张璐琪同学获第十届全国高等学校大学生测绘科技论文竞赛特等奖
+author:     Yue Pan
+tags: 		  post
+subtitle:   基于三维目标模型匹配的车辆精准检测 
+date:  2018-9-21 
 ---
-<section markdown="1" data-background="/EAB-AM-Project/img/slidebackground.png"><section markdown="1">
-## {{ page.title }}
-
-<hr>
-
-#### {{ page.author }}
-
-#### {{ page.date | | date: "%I %M %p ,%a, %b %d %Y"}}
-
-{{ page.horizontal }}
-<!-- Start Writing Below in Markdown -->
-
-### Chord Length Distributions of the 3 Experimental Samples
-
-![P1](/EAB-AM-Project/img/pcapresent/Picture1.png)
-
-{{ page.horizontal }}
-
-### Principal Component Analysis of the CLD for Experimental Subsamples
-
-![P1](/EAB-AM-Project/img/pcapresent/Picture2.png)
-
-{{ page.horizontal }}
-
-### PCA with Experimental and Simulated Datasets
-
-<embed src="http://mined.gatech.edu/EAB-AM-Project/2016/05/11/AM-Sim-CLD-PC/" height="800px" width="100%">
-
-{{ page.horizontal }}
-
-### A Crude but Revealing Experiment
-
-Which Simulated(Red) subsample looks more similar to the AM-RX(Blue) sub sample?
-
-![P1](/EAB-AM-Project/img/pcapresent/Picture3.png)
-
-{{ page.vertical }}
-
-### The Worse Match
-
-![P1](/EAB-AM-Project/img/pcapresent/Picture9.png)
-
-{{ page.vertical }}
-
-### The Better Match
-
-![P1](/EAB-AM-Project/img/pcapresent/Picture8.png)
 
 
-<!-- End Here -->
-{{ page.horizontal }}
+祝贺张璐琪同学论文《基于三维目标模型匹配的车辆精准检测》获第十届全国高等学校大学生测绘科技论文竞赛特等奖。撒花~
 
-# [Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
 
-# [Back]({{ site.url }}{{ site.baseurl }})
 
-</section></section>
