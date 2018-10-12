@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:         Dataset Enrichment and Handshaking
-author:     Ahmet Cecen
+title:      研究小组招募新人
+author:     Yue Pan
 tags: 		post
-subtitle:  	Exploring ways to enrich the data.
-date:       2016-05-10 02:00
+subtitle:  	
+date:       2018-10-12 
 ---
 <!-- Start Writing Below in Markdown -->
 
