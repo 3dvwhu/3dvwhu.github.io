@@ -3,7 +3,7 @@ layout:     post
 title:      研究小组招募新人
 author:     Yue Pan
 tags: 		  post
-subtitle:   欢迎广大大二，大三同学加入。 Let Geomatics express and change our world.
+subtitle:   欢迎广大大二，大三同学加入。 
 date:  2018-10-12 
 ---
 <!-- Start Writing Below in Markdown -->
@@ -12,8 +12,15 @@ date:  2018-10-12
 # 研究方向
 
 ## 点云数据处理
-![alt text]({{ site.baseurl }}/img/o_MCE1.png)
+![alt text]({{ site.baseurl }}/img/img001.png)
 
+![alt text]({{ site.baseurl }}/img/img002.png)
 
-#  
+![alt text]({{ site.baseurl }}/img/img003.png)
+
+![alt text]({{ site.baseurl }}/img/img004.png)
+
+![alt text]({{ site.baseurl }}/img/img005.png)
+##  
+
 
