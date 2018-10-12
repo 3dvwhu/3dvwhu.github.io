@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     projector
 title:      研究小组招募新人
 author:     Yue Pan
 tags: 		post
