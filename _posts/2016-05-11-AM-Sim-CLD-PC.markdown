@@ -1,9 +1,9 @@
 ---
 layout:     	projector
-title:     		3D PCA Projection of AM and Sim Data
+title:     		Example: 3D PCA Projection of point cloud 
 author:     	Ahmet Cecen
-tags:           projector visualization 
-subtitle:    	First 3 PCs of CLD
+tags:         projector visualization 
+subtitle:    	Principle Component Analysis
 
 dataset:    /projectors/CLDPCSimAM.json
 ---
