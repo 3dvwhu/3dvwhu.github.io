@@ -1,10 +1,8 @@
 ---
-layout:     notebook
-title:      Statistics on Crystallographic Orientations
-author:     Noah Paulson
-tags: 		jupyter workflows
-subtitle:   For Textures in Ti-64 using Generalized Spherical Harmonics
-
-notebookfilename: gshspatstats
-visualworkflow: false
+layout:     post
+title:      高速公路改扩建
+author:     Yue Pan
+tags: 		  post
+subtitle:   项目内容介绍
+date:  2018-10-10 
 ---
