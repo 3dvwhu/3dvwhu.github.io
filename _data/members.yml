@@ -2,21 +2,36 @@
 
 - name: Zhen Dong 董震
   role: 博士后  
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460 
   gplus: https://plus.google.com/+AhmetCecen-GPlus
   bio: 武汉大学测绘遥感信息工程国家重点实验室博士后，美国卡内基梅隆大学机器人研究所联合培养博士研究生，2018年博士后创新人才支持计划获得者。博士期间共发表SCI论文15篇（其中以第一或通讯作者发表一区Top SCI论文8篇）、EI论文6篇，谷歌学术引用400余次。已授权国家发明专利7项，软件著作权3项。先后获得湖北省科技进步一等奖、武汉大学研究生学术创新奖一等奖、博士研究生国家奖学金、王之卓创新人才奖一等奖、陈永龄院士优秀学生科技创新奖学金，测绘遥感信息工程国家重点实验室研究生科技创新奖，协同创新中心奖学金等。担任ISPRS、IEEE ITS、Information Sciences、JSTARS、Sensors等SCI期刊审稿人，2017年国际学术会议Laser Scanning学术委员会委员。研究兴趣为点云数据处理、计算机视觉与三维模型重建。
   visible: true
-   
+
+- name: Fuxun Liang 梁福逊
+  role: 博士
+  bio:  武汉大学测绘遥感信息工程国家重点实验室博士，发表SCI，EI论文多篇，研究方向为点云数据的处理及其应用。
+  visible: true
+  
 - name: Yue Pan 潘越
   role: 本科大四
-  img: https://avatars0.githubusercontent.com/u/11926298?v=3&s=460
   github: YuePanEdward
-  bio: 武汉大学测绘学院本科生，曾于香港理工大学，阿尔伯塔大学交换，本科期间发表学术论文2篇，曾获武汉大学于刚-宋晓奖学金，中海达奖学金等。研究兴趣:点云配准，SLAM，三维计算机视觉。
+  bio: 武汉大学测绘学院本科生，曾于香港理工大学，阿尔伯塔大学交换，本科期间发表学术论文2篇，曾获武汉大学于刚-宋晓奖学金，中海达奖学金等。研究兴趣为点云配准，SLAM，三维计算机视觉。
   url: yuepanedward.github.io
   visible: true
   
 - name: Yuzhou Zhou 周雨舟
   role: 本科大四
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: 武汉大学测绘学院本科生，曾获 
+  bio: 武汉大学测绘学院本科生，曾获夏坚白创新人才奖学金，中海达奖学金，宏图创展奖学金。 
   visible: true
+
+- name: 
+  role: 本科大四
+  github: YuePanEdward
+  bio: 武汉大学测绘学院本科生，曾于香港理工大学，阿尔伯塔大学交换，本科期间发表学术论文2篇，曾获武汉大学于刚-宋晓奖学金，中海达奖学金等。研究兴趣为点云配准，SLAM，三维计算机视觉。
+  url: yuepanedward.github.io
+  visible: true
+
+- name: Yuzhou Zhou 周雨舟
+  img: 
+  role: 本科大四
+  bio: 武汉大学测绘学院本科生，曾获 
+  visible: false
