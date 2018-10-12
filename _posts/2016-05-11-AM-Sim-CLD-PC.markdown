@@ -1,7 +1,7 @@
 ---
-layout:     	post
+layout:     	Projector
 title:     		3D PCA Projection of point cloud 
-author:     	Ahmet Cecen
+author:     	3DVWHU
 tags:         projector visualization 
 subtitle:    	Principle Component Analysis
 dataset:    /projectors/CLDPCSimAM.json
