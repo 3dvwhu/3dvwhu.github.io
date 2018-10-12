@@ -13,3 +13,5 @@ Iterative Global Similarity Points: A robust coarse-to-fine integration solution
 梁福逊博士赴意大利维罗纳参会，并作海报展示。
 
 ![alt text]({{ site.baseurl }}/img/IGSPdemo1.PNG)
+
+[code](https://github.com/YuePanEdward/IGSP)  [arxiv](https://arxiv.org/abs/1808.03899)  [video](https://www.youtube.com/watch?v=DZr-8AceSqA) [poster](https://github.com/YuePanEdward/YuePanEdward.github.io/assets/3DVposter.pdf)
