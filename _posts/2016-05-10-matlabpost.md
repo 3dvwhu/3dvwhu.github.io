@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      研究小组论文被3DV2018接收
+title:      研究小组论文被国际会议3DV2018接收
 author:     Yue Pan
 tags: 		post
 subtitle:  	 迭代全局相似点配准算法
@@ -14,4 +14,4 @@ Iterative Global Similarity Points: A robust coarse-to-fine integration solution
 
 ![alt text]({{ site.baseurl }}/img/IGSPdemo1.PNG)
 
-[code](https://github.com/YuePanEdward/IGSP)  [arxiv](https://arxiv.org/abs/1808.03899)  [video](https://www.youtube.com/watch?v=DZr-8AceSqA) [poster](https://github.com/YuePanEdward/YuePanEdward.github.io/assets/3DVposter.pdf)
+[code](https://github.com/YuePanEdward/IGSP)  [arxiv](https://arxiv.org/abs/1808.03899)  [video](https://www.youtube.com/watch?v=DZr-8AceSqA) 
