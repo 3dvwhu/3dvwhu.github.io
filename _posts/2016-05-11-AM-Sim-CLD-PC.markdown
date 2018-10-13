@@ -1,5 +1,5 @@
 ---
-layout:     	Projector
+layout:     	Projectors
 title:     		3D PCA Projection of point cloud 
 author:     	3DVWHU
 tags:         projector visualization 
