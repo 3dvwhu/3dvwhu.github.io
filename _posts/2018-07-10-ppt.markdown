@@ -12,3 +12,5 @@ date:  2018-07-10
 ## PPT分享
 
 [新生入门培训PPT-VI]({{ site.baseurl }}/img/新生入门培训_IV.pptx)
+
+[新生入门培训PPT-V]({{ site.baseurl }}/img/新生入门培训_V.pptx)
