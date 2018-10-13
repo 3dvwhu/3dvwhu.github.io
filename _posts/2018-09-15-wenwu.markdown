@@ -3,7 +3,7 @@ layout:     post
 title:      基于激光扫描的文物保护研究
 author:     3DVWHU
 tags: 		  post
-subtitle:   项目介绍 
+subtitle:   项目内容介绍 
 date:  2018-09-15 
 ---
 
@@ -50,9 +50,9 @@ date:  2018-09-15
 5）基于三维激光扫描技术的陶瓷质文物碎片修复系统软件开发 
 
 ### 扫描文物点云
-![alt text]({{ site.baseurl }}/img/img014.PNG)
+![alt text]({{ site.baseurl }}/img/img014.png)
 
 ### 现场操作过程
-![alt text]({{ site.baseurl }}/img/img015.PNG)
+![alt text]({{ site.baseurl }}/img/img015.png)
 
-![alt text]({{ site.baseurl }}/img/img016.PNG)
+![alt text]({{ site.baseurl }}/img/img016.png)
