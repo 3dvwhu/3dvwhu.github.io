@@ -22,3 +22,11 @@ date:  2018-10-10
 ## 基于机载点云数据的道路面自动化提取
 
 ![alt text]({{ site.baseurl }}/img/img013.png)
+
+## 海量点云数据的高效组织、管理及实时可视化
+
+![alt text]({{ site.baseurl }}/img/img017.png)
+
+## 机载点云数据精度评价、控制和改善技术
+
+![alt text]({{ site.baseurl }}/img/img018.png)
