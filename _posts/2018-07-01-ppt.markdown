@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      培训PPT，周报模板分享
+author:     3DVWHU
+tags: 		  post
+subtitle:   新生培训
+date:  2018-07-01
+---
+
+
+
+## PPT分享
+
+[新生入门培训PPT-VI]({{ site.baseurl }}/img/新生入门培训_IV.pptx)
+
+[新生入门培训PPT-V]({{ site.baseurl }}/img/新生入门培训_V.pptx)
+
+[点云分类基础]({{ site.baseurl }}/img/16.9.24点云分类基础.pptx)
+
+[逐点分类与CV基础]({{ site.baseurl }}/img/16.10.16逐点分类与CV基础知识.pptx)
+
+[卷积神经网络CNN小结]({{ site.baseurl }}/img/16.10.29CNN小结.pptx)
+
+[3D Deep Learning by UCSD Hao Su]({{ site.baseurl }}/img/3ddl-haosu.pdf)
+
+
+## 周报，文章阅读模板
+
+[文章阅读模板]({{ site.baseurl }}/img/文章阅读模板.docx)
+
+[周报模板1]({{ site.baseurl }}/img/周报模板1-report for the week from 924-1001.docx)
+
+[周报模板2]({{ site.baseurl }}/img/周报模板2-0925-1008.docx)
+
