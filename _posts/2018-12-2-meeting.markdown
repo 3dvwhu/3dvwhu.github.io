@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      项目内容介绍
+author:     Yue Pan
+tags: 		  post
+subtitle:   2018 第四次组会
+date:  2018-12-2
+---
+
+### 第四次组会内容
+
+1.潘越，周雨舟汇报本周工作
+
+2.董震博士后讲解点云基础知识（第一讲 Lidar原理及分类）
+
+3.讨论
