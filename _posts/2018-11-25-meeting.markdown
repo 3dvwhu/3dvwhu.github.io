@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      项目内容介绍
+title:      例会
 author:     Yue Pan
 tags: 		  post
 subtitle:   2018 第三次组会
